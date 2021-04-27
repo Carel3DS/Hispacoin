@@ -1,11 +1,11 @@
 # Hispacoin
 A PoS crypto for the Latin America market, aspiring to be the main trading currency in this region.
 The main features are:
--Easy to make transactions, to set a node, and to stake
--Fast transactions
--Having a very stable value
--Lightweight blockchain
--Available for all the world
+- Easy to make transactions, to set a node, and to stake
+- Fast transactions
+- Having a very stable value
+- Lightweight blockchain
+- Available for all the world
 =====
 Currently, this coin is under planning and research. Any help will be aprecciated
 
